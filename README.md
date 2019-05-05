@@ -31,4 +31,4 @@ So, this boosted the use of 3X3 kernels and to support the cause further compani
 19X19|3X3|17X17 17X17|3X3|15X15 15X15|3X3|13X13 13X13|3X3|11X11 11X11|3X3|9X9
 9X9|3X3|7X7 7X7|3X3|5X5 5X5|3X3|3X3 3X3|3X3|1X1 
 
-To reach the 1X1 from 9X9 we need to convolve 96 times.
+To reach the 1X1 from 9X9 we need to convolve 99 times.
